@@ -1,6 +1,3 @@
-# Trendwatch --- Telegram-Hype-Analyzer
-
-
 # **Область проекта (MVP)**
     
  • Источник данных: Telegram (через Telethon)
