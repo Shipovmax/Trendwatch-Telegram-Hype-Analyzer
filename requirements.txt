@@ -1,0 +1,17 @@
+# Основные зависимости проекта
+telethon==1.36.0          # Telegram клиент
+sqlalchemy==2.0.32        # ORM
+psycopg2-binary==2.9.9    # драйвер PostgreSQL
+python-dotenv==1.0.1      # загрузка .env
+
+# Аналитика и текст
+pandas==2.2.2
+nltk==3.9.1
+emoji==2.13.2
+
+# Витрины/сервисы
+streamlit==1.37.1
+fastapi==0.112.0
+uvicorn[standard]==0.30.6
+aiogram==3.10.0
+
