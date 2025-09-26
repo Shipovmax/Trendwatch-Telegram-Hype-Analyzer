@@ -68,15 +68,6 @@ trendwatch/
 
 ---
 
-## 📊 Алгоритм Trend Score
-Формула приоритизации трендов:
-```math
-trend_score = 0.6 * normalized(count)
-            + 0.3 * normalized(velocity)
-            + 0.1 * novelty
-```
-
----
 
 ## 📺 Интерфейсы
 
